@@ -1,0 +1,19 @@
+{
+  "name": "support-desk",
+  "version": "1.0.0",
+  "description": "support ticket app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k0wal45/support-desk-app.git"
+  },
+  "author": "Daniel Kowalski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k0wal45/support-desk-app/issues"
+  },
+  "homepage": "https://github.com/k0wal45/support-desk-app#readme"
+}
